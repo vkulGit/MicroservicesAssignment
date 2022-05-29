@@ -1,0 +1,1 @@
+insert into TB_USERS values(-1,'varsha','varsha','varsha@xyz.com',1,'ABC');
